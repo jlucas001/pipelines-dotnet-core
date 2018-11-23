@@ -1,4 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
+[![Build Status](https://dev.azure.com/JosephLucas0817/Doodle/_apis/build/status/jlucas001.pipelines-dotnet-core)](https://dev.azure.com/JosephLucas0817/Doodle/_build/latest?definitionId=1)
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
